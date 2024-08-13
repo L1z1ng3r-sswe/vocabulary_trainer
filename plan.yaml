@@ -1,0 +1,40 @@
+usage:
+	telegram:
+		/start:
+			"what do u want?": convert txt to db \ create backup \ quiz
+				1. "choose the quiz type": russian \ english \ back 
+				2. "update the rate?":     mutable \ imutable \ back 
+				3. "choose mode":          word + 3 sentences \ sentences combined \ words \ sentences \ back
+					1. word + including 3 sentence with the same word_id (ascending):
+						1. word, "translation" button 
+						2. word translation, sentence in english/russian, "translation" button
+						3. sentences translation,  								good? / bad? (change sentence rate)
+						4. sentence translation, sentence in english/russian, "translation" button
+						5. sentences translation,  								good? / bad? (change sentence rate)
+						6. sentence translation, sentence in english/russian, "translation" button
+						7. sentences translation,  								good? / bad? (change sentence rate)
+						8. good? / bad? (change word rate at the end)
+
+					2. give sentence with the same word_id combined (ascending by their rates):
+						1. give 3 sentences, "translation" button
+						2. translation, good? / bad? 
+						
+					3. give words (ascending):
+						1. give 1 word, "translation" button
+						2. translation, good? / bad?
+			
+					4. give sentences sorted by the sentence_rate rate (ascending):
+						1. give 1 sentence, "translation" button
+						2. translation, good? / bad? button msg -> the next one
+
+
+issues:
+	1. proper database schema for my needs and efficience
+	2. queries for getting 
+	3. queries for updating rating of words
+	4. queries for updating rating of sentences
+	5. how to convert txt to postgresql
+
+	(issue: update the russian translation -> delete from database -> write into txt file "issues")
+	(how to implement convert postgresql to sql)
+	(how to implement convert sql to zip)

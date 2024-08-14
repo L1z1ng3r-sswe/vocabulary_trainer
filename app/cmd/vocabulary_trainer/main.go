@@ -8,9 +8,11 @@ import (
 	"os/signal"
 	"syscall"
 
+	repository_postgres_vocabulary "github.com/L1z1ng3r-sswe/vocabulary_trainer/app/internal/adapters/repository/postgres/vocabulary"
 	"github.com/L1z1ng3r-sswe/vocabulary_trainer/app/internal/adapters/telegram_bot"
 	"github.com/L1z1ng3r-sswe/vocabulary_trainer/app/internal/config"
 	domain_postgres "github.com/L1z1ng3r-sswe/vocabulary_trainer/app/internal/domain/db/postgres"
+	infrastructure_converter "github.com/L1z1ng3r-sswe/vocabulary_trainer/app/internal/infrastructure/persistence/converter"
 	infrastructure_postgres "github.com/L1z1ng3r-sswe/vocabulary_trainer/app/internal/infrastructure/persistence/db/postgres"
 	"go.uber.org/fx"
 )
@@ -49,6 +51,12 @@ func main() {
 
 			// Provide the transaction manager implementation.
 			infrastructure_postgres.NewTxManager,
+
+			// Provide the vocabulary repository implementation.
+			repository_postgres_vocabulary.New,
+
+			// Provide the converter implementation for converting TXT files to Postgres.
+			infrastructure_converter.New,
 
 			// Initialize the Telegram bot.
 			telegram_bot.New,

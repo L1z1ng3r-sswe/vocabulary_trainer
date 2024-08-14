@@ -1,4 +1,0 @@
-chat.txt
-test.txt
-plan.yaml
-./schema/migrations/db.txt

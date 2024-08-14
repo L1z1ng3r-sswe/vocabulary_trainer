@@ -7,8 +7,10 @@ import (
 	"github.com/jmoiron/sqlx"
 )
 
+type TXKey string
+
 const (
-	TxKey = "tx" // TxKey is used for context checking
+	TxKey TXKey = "tx" // TxKey is used for context checking
 )
 
 // Handler is a function type used for executing operations within a transaction

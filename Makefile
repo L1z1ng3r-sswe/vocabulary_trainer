@@ -2,6 +2,7 @@ DSN="user=postgres dbname=postgres host=localhost port=5432 password=asyl12345. 
 
 run:
 	go run app/cmd/vocabulary_trainer/main.go
+	# go run app/cmd/withou_di/main.go
 
 pg_start:
 	docker start some-postgres

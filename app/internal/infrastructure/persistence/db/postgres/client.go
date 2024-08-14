@@ -23,6 +23,11 @@ func New(cfg *config.Config) (domain_postgres.Client, error) {
 		return nil, err
 	}
 
+	err = db.Ping()
+	if err != nil {
+		return nil, err
+	}
+
 	dbExecutor := NewDB(db)
 
 	return &client{db: dbExecutor}, nil

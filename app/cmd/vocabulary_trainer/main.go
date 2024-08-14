@@ -64,7 +64,7 @@ func main() {
 		fx.Invoke(
 			// Start handling updates for the Telegram bot.
 			func(tgBot telegram_bot.TelegramBot) {
-				tgBot.HandleUpdates()
+				go tgBot.HandleUpdates()
 			},
 
 			// Setup graceful shutdown handling.

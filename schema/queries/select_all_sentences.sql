@@ -1,3 +1,0 @@
-EXPLAIN ANALYSE
-SELECT * FROM sentences
-ORDER BY rate ASC;

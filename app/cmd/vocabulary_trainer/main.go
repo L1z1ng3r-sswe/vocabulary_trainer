@@ -10,6 +10,7 @@ import (
 
 	repository_postgres_vocabulary "github.com/L1z1ng3r-sswe/vocabulary_trainer/app/internal/adapters/repository/postgres/vocabulary"
 	"github.com/L1z1ng3r-sswe/vocabulary_trainer/app/internal/adapters/telegram_bot"
+	service_vocabulary "github.com/L1z1ng3r-sswe/vocabulary_trainer/app/internal/application/service/vocabulary"
 	"github.com/L1z1ng3r-sswe/vocabulary_trainer/app/internal/config"
 	domain_postgres "github.com/L1z1ng3r-sswe/vocabulary_trainer/app/internal/domain/db/postgres"
 	infrastructure_converter "github.com/L1z1ng3r-sswe/vocabulary_trainer/app/internal/infrastructure/persistence/converter"
@@ -33,7 +34,7 @@ func main() {
 		fx.Provide(
 			// Load configuration based on the specified environment.
 			func() (*config.Config, error) {
-				return config.LoadConfig(envExecFlag)
+				return config.Load(envExecFlag)
 			},
 
 			// Initialize PostgreSQL client.
@@ -54,6 +55,8 @@ func main() {
 
 			// Provide the vocabulary repository implementation.
 			repository_postgres_vocabulary.New,
+
+			service_vocabulary.New,
 
 			// Provide the converter implementation for converting TXT files to Postgres.
 			infrastructure_converter.New,

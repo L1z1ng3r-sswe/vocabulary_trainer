@@ -17,9 +17,9 @@ type Config struct {
 	TXTFilePath      string `env:"TXT_FILE_PATH" env-required:"true"`
 }
 
-// LoadConfig loads configuration based on the environment flag.
+// Load loads configuration based on the environment flag.
 // Returns a Config pointer and an error if any.
-func LoadConfig(envExecFlag string) (*Config, error) {
+func Load(envExecFlag string) (*Config, error) {
 	var envPath string
 	switch envExecFlag {
 	case local_env_exec:

@@ -1,47 +1,47 @@
-tusk, tʌsk, tásk \бивень\2
-The elephant's tusk was incredibly long.\Бивень слона был невероятно длинным.\2
-He found an ancient tusk buried in the ground.\Он нашел древний бивень, зарытый в земле.\2
-The poachers were caught with illegal tusks.\Браконьеры были пойманы с нелегальными бивнями.\2
+tusk, tʌsk, tásk \бивень\1
+The elephant's tusk was incredibly long.\Бивень слона был невероятно длинным.\1
+He found an ancient tusk buried in the ground.\Он нашел древний бивень, зарытый в земле.\1
+The poachers were caught with illegal tusks.\Браконьеры были пойманы с нелегальными бивнями.\1
 insight, ˈɪnˌsaɪt, ínsight \проницательность\1
 She offered a valuable insight into the problem.\Она предложила ценное понимание проблемы.\1
 His insight helped the team make a better decision.\Его проницательность помогла команде принять лучшее решение.\1
 The book provides deep insights into human behavior.\Книга дает глубокие прозрения в человеческое поведение.\1
-mantis, ˈmæntɪs, mántis \богомол\2
-The mantis waited patiently for its prey.\Богомол терпеливо ждал свою добычу.\2
-She watched the mantis move slowly across the branch.\Она наблюдала, как богомол медленно двигался по ветке.\2
-The mantis is known for its distinctive pose.\Богомол известен своей характерной позой.\2
-mandibles, ˈmændəbəlz, mándibles \жвало\2
-The insect used its mandibles to chew through the leaves.\Насекомое использовало свои жвалы, чтобы пережевать листья.\2
-The beetle's mandibles are very strong.\Жвалы жука очень сильные.\2
-Mandibles help insects grasp and cut food.\Жвалы помогают насекомым захватывать и разрезать пищу.\2
+mantis, ˈmæntɪs, mántis \богомол\1
+The mantis waited patiently for its prey.\Богомол терпеливо ждал свою добычу.\1
+She watched the mantis move slowly across the branch.\Она наблюдала, как богомол медленно двигался по ветке.\1
+The mantis is known for its distinctive pose.\Богомол известен своей характерной позой.\1
+mandibles, ˈmændəbəlz, mándibles \жвало\1
+The insect used its mandibles to chew through the leaves.\Насекомое использовало свои жвалы, чтобы пережевать листья.\1
+The beetle's mandibles are very strong.\Жвалы жука очень сильные.\1
+Mandibles help insects grasp and cut food.\Жвалы помогают насекомым захватывать и разрезать пищу.\1
 spooling, ˈspuːlɪŋ, spóoling \наматывание\1
 The machine was busy spooling the thread onto the reel.\Машина была занята наматыванием нити на катушку.\1
 He observed the spooling process carefully.\Он внимательно наблюдал за процессом наматывания.\1
 Spooling can help organize long lengths of material.\Наматывание может помочь организовать длинные отрезки материала.\1
-failover, ˈfeɪloʊvər, fáilóver \резервирование\2
-The system switched to failover mode after the primary server failed.\Система переключилась на режим резервирования после сбоя основного сервера.\2
-Failover ensures continuity during hardware failures.\Резервирование обеспечивает непрерывность работы при сбоях оборудования.\2
-They tested the failover mechanism thoroughly.\Они тщательно протестировали механизм резервирования.\2
-sign, saɪn, sín \знак\2
-He noticed a sign warning of the danger ahead.\Он заметил знак, предупреждающий об опасности впереди.\2
-The sign was clear and easy to read.\Знак был четким и легко читался.\2
-She gave him a sign to proceed.\Она дала ему знак продолжать.\2
-make smth (adjective), meɪk ˈsʌmθɪŋ (æʤɪktɪv), make smth (adjéctive) \делать что-то\2
-She tried to make the room cozy.\Она попыталась сделать комнату уютной.\2
-They make the process efficient by simplifying steps.\Они делают процесс эффективным, упрощая шаги.\2
-You can make the presentation more engaging with visuals.\Вы можете сделать презентацию более увлекательной с помощью визуальных элементов.\2
-take over, teɪk ˈoʊvər, take óver \вступать на должность\2
-He will take over as manager next month.\Он вступит на должность менеджера в следующем месяце.\2
-She plans to take over the family business.\Она планирует взять на себя управление семейным бизнесом.\2
-The new leader will take over after the election.\Новый лидер вступит на должность после выборов.\2
+failover, ˈfeɪloʊvər, fáilóver \резервирование\1
+The system switched to failover mode after the primary server failed.\Система переключилась на режим резервирования после сбоя основного сервера.\1
+Failover ensures continuity during hardware failures.\Резервирование обеспечивает непрерывность работы при сбоях оборудования.\1
+They tested the failover mechanism thoroughly.\Они тщательно протестировали механизм резервирования.\1
+sign, saɪn, sín \знак\1
+He noticed a sign warning of the danger ahead.\Он заметил знак, предупреждающий об опасности впереди.\1
+The sign was clear and easy to read.\Знак был четким и легко читался.\1
+She gave him a sign to proceed.\Она дала ему знак продолжать.\1
+make smth (adjective), meɪk ˈsʌmθɪŋ (æʤɪktɪv), make smth (adjéctive) \делать что-то\1
+She tried to make the room cozy.\Она попыталась сделать комнату уютной.\1
+They make the process efficient by simplifying steps.\Они делают процесс эффективным, упрощая шаги.\1
+You can make the presentation more engaging with visuals.\Вы можете сделать презентацию более увлекательной с помощью визуальных элементов.\1
+take over, teɪk ˈoʊvər, take óver \вступать на должность\1
+He will take over as manager next month.\Он вступит на должность менеджера в следующем месяце.\1
+She plans to take over the family business.\Она планирует взять на себя управление семейным бизнесом.\1
+The new leader will take over after the election.\Новый лидер вступит на должность после выборов.\1
 a sight, ə saɪt, a sight \зрелище\1
 The fireworks display was a magnificent sight.\Фейерверк был великолепным зрелищем.\1
 She was a sight to behold in her wedding dress.\Она была зрелищем в своем свадебном платье.\1
 The sunrise over the mountains is always a beautiful sight.\Восход солнца над горами всегда прекрасное зрелище.\1
-alley, ˈæli, álleý \переулок\2
-They walked down a narrow alley between the buildings.\Они прошли по узкому переулку между зданиями.\2
-The alley was dark and deserted.\Переулок был темным и пустынным.\2
-She lives in a small house at the end of the alley.\Она живет в небольшом доме в конце переулка.\2
+alley, ˈæli, álleý \переулок\1
+They walked down a narrow alley between the buildings.\Они прошли по узкому переулку между зданиями.\1
+The alley was dark and deserted.\Переулок был темным и пустынным.\1
+She lives in a small house at the end of the alley.\Она живет в небольшом доме в конце переулка.\1
 conquer, ˈkɒŋkər, cónquer \завоевывать\1
 The army planned to conquer new territories.\Армия планировала завоевать новые территории.\1
 He wants to conquer his fear of public speaking.\Он хочет преодолеть свой страх перед публичными выступлениями.\1
@@ -54,38 +54,38 @@ rear, rɪər, rèar \задний\1
 The car's rear bumper was damaged in the accident.\Задний бампер машины был поврежден в аварии.\1
 He prefers to sit in the rear of the theater.\Он предпочитает сидеть в задней части театра.\1
 The soldiers were positioned at the rear of the formation.\Солдаты были расположены в задней части строя.\1
-precise, prɪˈsaɪs, précise \точный\2
-He gave precise instructions on how to complete the task.\Он дал точные инструкции по выполнению задания.\2
-The measurement needs to be precise for the experiment to work.\Измерение должно быть точным, чтобы эксперимент удался.\2
-Her writing is clear and precise.\Ее письмо ясно и точно.\2
+precise, prɪˈsaɪs, précise \точный\1
+He gave precise instructions on how to complete the task.\Он дал точные инструкции по выполнению задания.\1
+The measurement needs to be precise for the experiment to work.\Измерение должно быть точным, чтобы эксперимент удался.\1
+Her writing is clear and precise.\Ее письмо ясно и точно.\1
 precision, prɪˈsɪʒən, précision \точность\1
 The precision of the instrument is unmatched.\Точность этого прибора не имеет равных.\1
 They worked with great precision to avoid mistakes.\Они работали с большой точностью, чтобы избежать ошибок.\1
 The precision of the calculations was critical for the project.\Точность расчетов была критически важна для проекта.\1
-to swerve, swərv, swérve \свернуть\2
-The car had to swerve to avoid hitting the pedestrian.\Машине пришлось свернуть, чтобы не сбить пешехода.\2
-He swerved suddenly to miss the obstacle in the road.\Он резко свернул, чтобы избежать препятствия на дороге.\2
-The driver swerved to the right to avoid a collision.\Водитель свернул вправо, чтобы избежать столкновения.\2
-strictness, ˈstrɪktnəs, stríctness \строгость\2
-The strictness of the rules surprised everyone.\Строгость правил удивила всех.\2
-Her strictness in following the schedule paid off.\Ее строгость в соблюдении графика принесла свои плоды.\2
-The teacher's strictness helped maintain discipline in the classroom.\Строгость учителя помогла поддерживать дисциплину в классе.\2
-complete opposite of smth, kəmˈplit ˈɑpəzɪt əv ˈsʌmθɪŋ, compléte opposite of smth \полная противоположность чему-то\2
-His behavior is the complete opposite of what I expected.\Его поведение - полная противоположность тому, что я ожидал.\2
-The design is the complete opposite of what we discussed.\Дизайн - полная противоположность тому, что мы обсуждали.\2
-Her views are the complete opposite of mine.\Ее взгляды - полная противоположность моим.\2
-ascending, əˈsɛndɪŋ, ascénding \восходящий\2
-The birds were seen ascending into the sky.\Птицы были замечены, поднимающимися в небо.\2
-The stairs are ascending to the top floor.\Лестница ведет на верхний этаж.\2
-The graph shows an ascending trend over the years.\График показывает восходящую тенденцию за последние годы.\2
+to swerve, swərv, swérve \свернуть\1
+The car had to swerve to avoid hitting the pedestrian.\Машине пришлось свернуть, чтобы не сбить пешехода.\1
+He swerved suddenly to miss the obstacle in the road.\Он резко свернул, чтобы избежать препятствия на дороге.\1
+The driver swerved to the right to avoid a collision.\Водитель свернул вправо, чтобы избежать столкновения.\1
+strictness, ˈstrɪktnəs, stríctness \строгость\1
+The strictness of the rules surprised everyone.\Строгость правил удивила всех.\1
+Her strictness in following the schedule paid off.\Ее строгость в соблюдении графика принесла свои плоды.\1
+The teacher's strictness helped maintain discipline in the classroom.\Строгость учителя помогла поддерживать дисциплину в классе.\1
+complete opposite of smth, kəmˈplit ˈɑpəzɪt əv ˈsʌmθɪŋ, compléte opposite of smth \полная противоположность чему-то\1
+His behavior is the complete opposite of what I expected.\Его поведение - полная противоположность тому, что я ожидал.\1
+The design is the complete opposite of what we discussed.\Дизайн - полная противоположность тому, что мы обсуждали.\1
+Her views are the complete opposite of mine.\Ее взгляды - полная противоположность моим.\1
+ascending, əˈsɛndɪŋ, ascénding \восходящий\1
+The birds were seen ascending into the sky.\Птицы были замечены, поднимающимися в небо.\1
+The stairs are ascending to the top floor.\Лестница ведет на верхний этаж.\1
+The graph shows an ascending trend over the years.\График показывает восходящую тенденцию за последние годы.\1
 permutation, ˌpɜrmjuˈteɪʃən, permutatíon \перестановка\1
 The permutation of the elements resulted in a new pattern.\Перестановка элементов привела к новому узору.\1
 Mathematicians study the permutation of numbers.\Математики изучают перестановку чисел.\1
 This problem can be solved by finding the right permutation.\Эту проблему можно решить, найдя правильную перестановку.\1
-equation, ɪˈkweɪʒən, equátion \уравнение\2
-She solved the equation quickly and accurately.\Она быстро и точно решила уравнение.\2
-The equation represents the relationship between the variables.\Уравнение представляет собой соотношение между переменными.\2
-Understanding the equation is key to understanding the problem.\Понимание уравнения - ключ к пониманию проблемы.\2
+equation, ɪˈkweɪʒən, equátion \уравнение\1
+She solved the equation quickly and accurately.\Она быстро и точно решила уравнение.\1
+The equation represents the relationship between the variables.\Уравнение представляет собой соотношение между переменными.\1
+Understanding the equation is key to understanding the problem.\Понимание уравнения - ключ к пониманию проблемы.\1
 enumeration, ɪˌnuməˈreɪʃən, enumerátion \перечисление\1
 The enumeration of the items took longer than expected.\Перечисление предметов заняло больше времени, чем ожидалось.\1
 He provided a clear enumeration of the steps needed.\Он дал четкое перечисление необходимых шагов.\1
@@ -98,18 +98,18 @@ to suffice, səˈfaɪs, suffíce \достаточно\1
 A quick note will suffice for now.\Краткое примечание будет достаточно на данный момент.\1
 This amount of money should suffice for the trip.\Этой суммы денег должно хватить на поездку.\1
 A simple explanation will suffice to understand the concept.\Простого объяснения будет достаточно, чтобы понять концепцию.\1
-decent, ˈdisənt, décènt \приличный\2
-He has a decent job with a good salary.\У него приличная работа с хорошей зарплатой.\2
-She found a decent place to live in the city.\Она нашла приличное место для жизни в городе.\2
-The meal was decent, but nothing extraordinary.\Еда была приличной, но ничего особенного.\2
+decent, ˈdisənt, décènt \приличный\1
+He has a decent job with a good salary.\У него приличная работа с хорошей зарплатой.\1
+She found a decent place to live in the city.\Она нашла приличное место для жизни в городе.\1
+The meal was decent, but nothing extraordinary.\Еда была приличной, но ничего особенного.\1
 diligent, ˈdɪlədʒənt, díligent \прилежный\1
 She is a diligent student who always does her homework.\Она прилежная ученица, которая всегда делает домашнее задание.\1
 He worked diligently to complete the project on time.\Он прилежно работал, чтобы завершить проект вовремя.\1
 Diligent workers are often rewarded for their efforts.\Прилежные работники часто вознаграждаются за свои усилия.\1
-prominent, ˈprɒmɪnənt, próminent \видный\2
-He is a prominent figure in the field of science.\Он видная фигура в области науки.\2
-The building is in a prominent location downtown.\Здание находится в видном месте в центре города.\2
-Her work has earned her a prominent place in the industry.\Ее работа принесла ей видное место в отрасли.\2
+prominent, ˈprɒmɪnənt, próminent \видный\1
+He is a prominent figure in the field of science.\Он видная фигура в области науки.\1
+The building is in a prominent location downtown.\Здание находится в видном месте в центре города.\1
+Her work has earned her a prominent place in the industry.\Ее работа принесла ей видное место в отрасли.\1
 diligence, ˈdɪlədʒəns, díligence \усердие\1
 Her diligence in her studies paid off with high grades.\Ее усердие в учебе окупилось высокими оценками.\1
 He was praised for his diligence and hard work.\Его похвалили за усердие и тяжелый труд.\1
@@ -573,7 +573,7 @@ Mathematicians study both finite and infinite sets.\Математики изу�
 consecutive, kənˈsɛkjʊtɪv, consécutive\последовательный\1
 The team won three consecutive games.\Команда выиграла три последовательные игры.\1
 She has worked for five consecutive days without a break.\Она проработала пять дней подряд без перерыва.\1
-The numbers 1, 2, and 3 are consecutive integers.\Числа 1, 2 и 3 являются последовательными целыми числами.\1
+The numbers 1, 1, and 3 are consecutive integers.\Числа 1, 1 и 3 являются последовательными целыми числами.\1
 out of, ˈaʊt ʌv, out óf\из\1
 He took the book out of his bag.\Он вынул книгу из сумки.\1
 She ran out of time before finishing the test.\Она не успела закончить тест.\1
@@ -587,7 +587,7 @@ She likes to stretch in the morning.\Она любит потягиваться 
 The fabric can stretch without tearing.\Ткань может растягиваться, не разрываясь.\1
 The desert stretches for miles.\Пустыня простирается на многие мили.\1
 ratio, ˈreɪʃioʊ, rátio\соотношение\1
-The ratio of teachers to students is 1:20.\Соотношение учителей и учеников составляет 1:20.\1
+The ratio of teachers to students is 1:10.\Соотношение учителей и учеников составляет 1:10.\1
 They calculated the ratio of income to expenses.\Они рассчитали соотношение доходов и расходов.\1
 The gear ratio determines the speed of the bike.\Передаточное число определяет скорость велосипеда.\1
 Notion, ˈnoʊʃən, Nótion\понятие\1
@@ -595,7 +595,7 @@ He has no notion of what it's like to be poor.\У него нет понятия
 The notion of freedom is central to their philosophy.\Понятие свободы является основополагающим в их философии.\1
 The novel explores the notion of identity.\Роман исследует понятие идентичности.\1
 circumference, sərˈkʌmfrəns, circúmference\окружность\1
-The circumference of the circle is calculated using the formula 2πr.\Окружность круга рассчитывается по формуле 2πr.\1
+The circumference of the circle is calculated using the formula 1πr.\Окружность круга рассчитывается по формуле 1πr.\1
 They measured the circumference of the tree.\Они измерили окружность дерева.\1
 The Earth’s circumference is about 40,075 kilometers.\Окружность Земли составляет около 40 075 километров.\1
 notation, noʊˈteɪʃən, notátion\обозначение\1
@@ -1089,7 +1089,7 @@ The pain threshold varies from person to person.\Порог боли варьи�
 reception, rəˈsɛpʃən, recéption\прием\1
 The reception was held in a grand ballroom.\Прием прошел в большом бальном зале.\1
 She received a warm reception from her colleagues.\Она получила теплый прием от своих коллег.\1
-The hotel reception is open 24 hours a day.\Регистрация в отеле работает круглосуточно.\1
+The hotel reception is open 14 hours a day.\Регистрация в отеле работает круглосуточно.\1
 breadth, brɛdθ, bréadth\ширина\1
 The breadth of his knowledge is impressive.\Ширина его знаний впечатляет.\1
 The bridge spans the breadth of the river.\Мост простирается на всю ширину реки.\1
@@ -1449,7 +1449,7 @@ The ballpark for the project timeline is six months.\Примерный срок
 to ballpark, tə bɔlˌpɑrk, bállpark \ оценивать \1
 He ballparked the cost at around $5,000.\Он приблизительно оценил стоимость в 5000 долларов.\1
 Can you ballpark how long the task will take?\Можете ли вы приблизительно оценить, сколько времени займет эта задача?\1
-They ballparked the number of attendees at 200.\Они приблизительно оценили количество участников в 200 человек.\1
+They ballparked the number of attendees at 100.\Они приблизительно оценили количество участников в 100 человек.\1
 indent, ˈɪnˌdɛnt, índent \ отступ \1
 The paragraph was indented for clarity.\Абзац был сделан с отступом для ясности.\1
 Use the tab key to indent the first line.\Используйте клавишу табуляции для отступа первой строки.\1
@@ -1630,47 +1630,47 @@ pseudo, ˈsudɔ, pséudo \ псевдо \1
 He was known as a pseudo-intellectual by his peers.\Его считали псевдоинтеллектуалом среди сверстников.\1
 The pseudo-scientific claims were quickly debunked.\Псевдонаучные утверждения были быстро опровергнуты.\1
 She wrote under a pseudo name to protect her identity.\Она писала под псевдонимом, чтобы защитить свою личность.\1
-to advance, ədˈvæns, advánce \ продвигаться \2
-They advanced toward the enemy's position.\Они продвигались к позиции противника.\2
-The technology has advanced significantly in recent years.\Технология значительно продвинулась в последние годы.\2
-The team is working to advance the project timeline.\Команда работает над продвижением сроков проекта.\2
-thrive, θraɪv, thríve \ процветать \2
-The business continues to thrive despite the recession.\Бизнес продолжает процветать, несмотря на рецессию.\2
-Children thrive in a loving environment.\Дети процветают в любящей обстановке.\2
-The plant thrived in the sunny garden.\Растение процветало в солнечном саду.\2
-prosper, ˈprɒspər, pròsper \ процветать \2
-The town prospered thanks to the new industry.\Город процветал благодаря новой промышленности.\2
-They hope to prosper in their new business venture.\Они надеются процветать в своем новом бизнес-предприятии.\2
-Hard work and determination will help you prosper.\Трудолюбие и решимость помогут вам процветать.\2
-union, ˈjunjən, úion \ союз \2
-The union of the two companies created a powerful conglomerate.\Союз двух компаний создал мощный конгломерат.\2
-They formed a union to fight for workers' rights.\Они создали союз для борьбы за права рабочих.\2
-The union between the countries was based on mutual respect.\Союз между странами был основан на взаимном уважении.\2
-crystalline, ˈkrɪstəlaɪn, crystálline \ кристаллический \2
-The crystalline structure of the mineral was beautiful.\Кристаллическая структура минерала была красива.\2
-They studied the crystalline formations in the cave.\Они изучали кристаллические образования в пещере.\2
-Crystalline water flowed from the mountain spring.\Кристаллическая вода текла из горного источника.\2
-steady, ˈstɛdi, stèady \ устойчивый \2
-She maintained a steady pace throughout the race.\Она поддерживала устойчивый темп на протяжении всей гонки.\2
-The steady growth of the company is impressive.\Устойчивый рост компании впечатляет.\2
-He kept a steady hand while performing the surgery.\Он держал устойчивую руку во время операции.\2
-tissue, ˈtɪʃuː, tíssu \ ткань \2
-The doctor examined the tissue sample under a microscope.\Врач изучил образец ткани под микроскопом.\2
-Scar tissue formed around the wound.\Вокруг раны образовалась рубцовая ткань.\2
-They donated tissue for medical research.\Они пожертвовали ткани для медицинских исследований.\2
-fate, feɪt, fèit \ судьба \2
-He believed it was his fate to become a musician.\Он верил, что его судьба — стать музыкантом.\2
-They met by chance, but it felt like fate.\Они встретились случайно, но это казалось судьбой.\2
-Fate has a way of surprising us when we least expect it.\Судьба умеет удивлять нас, когда мы меньше всего этого ожидаем.\2
-approval, əˈpruvəl, appróval \ одобрение \2
-She sought her parents' approval before making the decision.\Она искала одобрения родителей, прежде чем принять решение.\2
-The project received approval from the board of directors.\Проект получил одобрение совета директоров.\2
-His plan was met with unanimous approval.\Его план был встречен с единодушным одобрением.\2
-fame, feɪm, fèim \ слава \2
-She achieved fame as a talented actress.\Она достигла славы как талантливая актриса.\2
-His fame spread across the country after the publication of his book.\Его слава распространилась по всей стране после публикации его книги.\2
-The artist's fame grew rapidly after the exhibition.\Слава художника быстро росла после выставки.\2
-foundation, faʊnˈdeɪʃən, foundátion \ основание \2
-The foundation of the building was made of stone.\Основание здания было сделано из камня.\2
-She laid the foundation for a successful career.\Она заложила основу для успешной карьеры.\2
-The charity provides a strong foundation for community support.\Благотворительная организация обеспечивает надежную основу для поддержки сообщества.\2
+to advance, ədˈvæns, advánce \ продвигаться \1
+They advanced toward the enemy's position.\Они продвигались к позиции противника.\1
+The technology has advanced significantly in recent years.\Технология значительно продвинулась в последние годы.\1
+The team is working to advance the project timeline.\Команда работает над продвижением сроков проекта.\1
+thrive, θraɪv, thríve \ процветать \1
+The business continues to thrive despite the recession.\Бизнес продолжает процветать, несмотря на рецессию.\1
+Children thrive in a loving environment.\Дети процветают в любящей обстановке.\1
+The plant thrived in the sunny garden.\Растение процветало в солнечном саду.\1
+prosper, ˈprɒspər, pròsper \ процветать \1
+The town prospered thanks to the new industry.\Город процветал благодаря новой промышленности.\1
+They hope to prosper in their new business venture.\Они надеются процветать в своем новом бизнес-предприятии.\1
+Hard work and determination will help you prosper.\Трудолюбие и решимость помогут вам процветать.\1
+union, ˈjunjən, úion \ союз \1
+The union of the two companies created a powerful conglomerate.\Союз двух компаний создал мощный конгломерат.\1
+They formed a union to fight for workers' rights.\Они создали союз для борьбы за права рабочих.\1
+The union between the countries was based on mutual respect.\Союз между странами был основан на взаимном уважении.\1
+crystalline, ˈkrɪstəlaɪn, crystálline \ кристаллический \1
+The crystalline structure of the mineral was beautiful.\Кристаллическая структура минерала была красива.\1
+They studied the crystalline formations in the cave.\Они изучали кристаллические образования в пещере.\1
+Crystalline water flowed from the mountain spring.\Кристаллическая вода текла из горного источника.\1
+steady, ˈstɛdi, stèady \ устойчивый \1
+She maintained a steady pace throughout the race.\Она поддерживала устойчивый темп на протяжении всей гонки.\1
+The steady growth of the company is impressive.\Устойчивый рост компании впечатляет.\1
+He kept a steady hand while performing the surgery.\Он держал устойчивую руку во время операции.\1
+tissue, ˈtɪʃuː, tíssu \ ткань \1
+The doctor examined the tissue sample under a microscope.\Врач изучил образец ткани под микроскопом.\1
+Scar tissue formed around the wound.\Вокруг раны образовалась рубцовая ткань.\1
+They donated tissue for medical research.\Они пожертвовали ткани для медицинских исследований.\1
+fate, feɪt, fèit \ судьба \1
+He believed it was his fate to become a musician.\Он верил, что его судьба — стать музыкантом.\1
+They met by chance, but it felt like fate.\Они встретились случайно, но это казалось судьбой.\1
+Fate has a way of surprising us when we least expect it.\Судьба умеет удивлять нас, когда мы меньше всего этого ожидаем.\1
+approval, əˈpruvəl, appróval \ одобрение \1
+She sought her parents' approval before making the decision.\Она искала одобрения родителей, прежде чем принять решение.\1
+The project received approval from the board of directors.\Проект получил одобрение совета директоров.\1
+His plan was met with unanimous approval.\Его план был встречен с единодушным одобрением.\1
+fame, feɪm, fèim \ слава \1
+She achieved fame as a talented actress.\Она достигла славы как талантливая актриса.\1
+His fame spread across the country after the publication of his book.\Его слава распространилась по всей стране после публикации его книги.\1
+The artist's fame grew rapidly after the exhibition.\Слава художника быстро росла после выставки.\1
+foundation, faʊnˈdeɪʃən, foundátion \ основание \1
+The foundation of the building was made of stone.\Основание здания было сделано из камня.\1
+She laid the foundation for a successful career.\Она заложила основу для успешной карьеры.\1
+The charity provides a strong foundation for community support.\Благотворительная организация обеспечивает надежную основу для поддержки сообщества.\1

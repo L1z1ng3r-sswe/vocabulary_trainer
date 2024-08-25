@@ -1,24 +1,26 @@
-DSN="user=postgres dbname=postgres host=localhost port=5432 password=asyl12345. sslmode=disable"
+DSN="host=localhost port=5431 user=postgres password=asyl12345. dbname=postgres sslmode=disable"
 
-run:
+run: docker_start
 	go run app/cmd/vocabulary_trainer/main.go
-	# go run app/cmd/withou_di/main.go
 
-pg_start:
-	docker start some-postgres
+docker_start:
+	docker start vocabulary-trainer
 
-cli-db:
-	psql -h localhost -U postgres -d postgres
-	
+cli_db: docker_start
+	pgcli -h localhost -U postgres -d postgres -p 5431
 	# \dt - for looking existing tables
 	# \q - to close connection
 	# \d table_name - to see the table
 
 migrate_create:
-	goose -s -dir ./migrations create vocabulary sql
+	goose -s -dir ./schema/migrations create vocabulary sql
 
 migrate_up:
-	goose -dir ./migrations postgres ${DSN} up
+	goose -dir ./schema/migrations postgres ${DSN} up
 
 migrate_down:
-	goose -dir ./migrations postgres ${DSN} down
+	goose -dir ./schema/migrations postgres ${DSN} down
+
+git_cache:
+	git rm -r --cached .
+

@@ -10,7 +10,7 @@ type service struct {
 }
 
 // New creates a new instance of the vocabulary service.
-func New(repository domain_vocabulary_repository.Repository) domain_vocabulary_service.Serive {
+func New(repository domain_vocabulary_repository.Repository) domain_vocabulary_service.Service {
 	return &service{
 		repository: repository,
 	}

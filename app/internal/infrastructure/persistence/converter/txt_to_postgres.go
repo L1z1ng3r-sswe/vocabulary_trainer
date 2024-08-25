@@ -4,7 +4,6 @@ import (
 	"bufio"
 	"context"
 	"fmt"
-	"log"
 	"os"
 	"strconv"
 	"strings"
@@ -14,59 +13,26 @@ import (
 
 func (c *converter) ConvertTXTToPostgres(ctx context.Context) error {
 	err := c.txManager.ReadCommitted(ctx, func(txCtx context.Context) error {
-
-		file, err := os.Open(c.txtFilePath)
+		lines, err := c.readFileLines(c.txtFilePath)
 		if err != nil {
-			return fmt.Errorf("failed to open file: %w", err)
+			return err
 		}
-		defer file.Close()
 
-		scanner := bufio.NewScanner(file)
-
-		for scanner.Scan() {
-
-			wordLine := scanner.Text()
-			parts := strings.Split(wordLine, "\\")
-			if len(parts) != 3 {
-				return fmt.Errorf("invalid word line: %v", wordLine)
-			}
-
-			rate, err := strconv.Atoi(strings.TrimSpace(parts[2]))
+		for i := 0; i < len(lines); i += 4 {
+			word, err := c.parseWordLine(lines[i])
 			if err != nil {
-				return fmt.Errorf("invalid rate: %v", parts[2])
+				return err
 			}
 
-			currentWord := domain_vocabulary_entity.Word{
-				WordPronStress: strings.TrimSpace(parts[0]),
-				Translation:    strings.TrimSpace(parts[1]),
-				Rate:           rate,
-			}
-
-			wordID, err := c.vocabularyRepository.InsertWord(txCtx, currentWord)
+			wordID, err := c.vocabularyRepository.InsertWord(txCtx, word)
 			if err != nil {
 				return fmt.Errorf("failed to insert word: %w", err)
 			}
 
-			for i := 0; i < 3; i++ {
-				if !scanner.Scan() {
-					return fmt.Errorf("unexpected end of file when reading sentences for word: %v", currentWord.WordPronStress)
-				}
-				sentenceLine := scanner.Text()
-				sentenceParts := strings.Split(sentenceLine, "\\")
-				if len(sentenceParts) != 3 {
-					return fmt.Errorf("invalid sentence line: %v", sentenceLine)
-				}
-
-				sentenceRate, err := strconv.Atoi(strings.TrimSpace(sentenceParts[2]))
+			for j := 1; j <= 3; j++ {
+				sentence, err := c.parseSentenceLine(lines[i+j], wordID)
 				if err != nil {
-					return fmt.Errorf("invalid sentence rate: %v", sentenceParts[2])
-				}
-
-				sentence := domain_vocabulary_entity.Sentence{
-					WordID:      wordID,
-					Sentence:    strings.TrimSpace(sentenceParts[0]),
-					Translation: strings.TrimSpace(sentenceParts[1]),
-					Rate:        sentenceRate,
+					return err
 				}
 
 				_, err = c.vocabularyRepository.InsertSentence(txCtx, sentence)
@@ -76,11 +42,6 @@ func (c *converter) ConvertTXTToPostgres(ctx context.Context) error {
 			}
 		}
 
-		if err := scanner.Err(); err != nil {
-			return fmt.Errorf("error reading file: %w", err)
-		}
-
-		log.Println("Data has been successfully inserted into the database.")
 		return nil
 	})
 
@@ -88,4 +49,61 @@ func (c *converter) ConvertTXTToPostgres(ctx context.Context) error {
 		return err
 	}
 	return nil
+}
+
+func (c *converter) readFileLines(filePath string) ([]string, error) {
+	file, err := os.Open(filePath)
+	if err != nil {
+		return nil, fmt.Errorf("failed to open file: %w", err)
+	}
+	defer file.Close()
+
+	var lines []string
+	scanner := bufio.NewScanner(file)
+	for scanner.Scan() {
+		lines = append(lines, scanner.Text())
+	}
+
+	if err := scanner.Err(); err != nil {
+		return nil, fmt.Errorf("error reading file: %w", err)
+	}
+
+	return lines, nil
+}
+
+func (c *converter) parseWordLine(line string) (domain_vocabulary_entity.Word, error) {
+	parts := strings.Split(line, "\\")
+	if len(parts) != 3 {
+		return domain_vocabulary_entity.Word{}, fmt.Errorf("invalid word line: %v", line)
+	}
+
+	rate, err := strconv.Atoi(strings.TrimSpace(parts[2]))
+	if err != nil {
+		return domain_vocabulary_entity.Word{}, fmt.Errorf("invalid rate: %v", parts[2])
+	}
+
+	return domain_vocabulary_entity.Word{
+		WordPronStress: strings.TrimSpace(parts[0]),
+		Translation:    strings.TrimSpace(parts[1]),
+		Rate:           rate,
+	}, nil
+}
+
+func (c *converter) parseSentenceLine(line string, wordID int64) (domain_vocabulary_entity.Sentence, error) {
+	parts := strings.Split(line, "\\")
+	if len(parts) != 3 {
+		return domain_vocabulary_entity.Sentence{}, fmt.Errorf("invalid sentence line: %v", line)
+	}
+
+	rate, err := strconv.Atoi(strings.TrimSpace(parts[2]))
+	if err != nil {
+		return domain_vocabulary_entity.Sentence{}, fmt.Errorf("invalid sentence rate: %v", parts[2])
+	}
+
+	return domain_vocabulary_entity.Sentence{
+		WordID:      wordID,
+		Sentence:    strings.TrimSpace(parts[0]),
+		Translation: strings.TrimSpace(parts[1]),
+		Rate:        rate,
+	}, nil
 }

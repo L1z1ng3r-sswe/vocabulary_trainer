@@ -17,7 +17,7 @@ func (t *telegramBot) updateSentenceRating(index int, sentenceIndex int, rating 
 		t.handleGeneralError(fmt.Sprintf("Failed to update sentence rating for sentence ID: %d", t.combinedQuiz[index].SentencesCombined[sentenceIndex].ID), chatID)
 	}
 
-	log.Println("Rating Updated Successfuly: ", rating)
+	log.Println("Rating Updated Successfuly: ", t.combinedQuiz[index].SentencesCombined[sentenceIndex].Rate)
 }
 
 func (t *telegramBot) updateWordRating(index int, rating string, chatID int64) {
@@ -31,6 +31,6 @@ func (t *telegramBot) updateWordRating(index int, rating string, chatID int64) {
 		t.handleGeneralError(fmt.Sprintf("Failed to update word rating for word ID: %d", t.combinedQuiz[index].Word.ID), chatID)
 	}
 
-	log.Println("Rating Updated Successfuly: ", rating)
+	log.Println("Rating Updated Successfuly: ", t.combinedQuiz[index].Word.Rate)
 
 }

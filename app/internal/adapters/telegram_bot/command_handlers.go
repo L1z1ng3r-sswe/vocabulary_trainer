@@ -12,7 +12,7 @@ func (t *telegramBot) handleStartCommand(msg *tgbotapi.Message) error {
 	buttons := tgbotapi.NewInlineKeyboardMarkup(
 		tgbotapi.NewInlineKeyboardRow(
 			tgbotapi.NewInlineKeyboardButtonData("quiz", startAction+separator+quizOption),
-			tgbotapi.NewInlineKeyboardButtonData("txt convert", startAction+separator+txtConvertOption),
+			// tgbotapi.NewInlineKeyboardButtonData("txt convert", startAction+separator+txtConvertOption),
 			tgbotapi.NewInlineKeyboardButtonData("create backup of the db", startAction+separator+createBackUpDBOption),
 		),
 	)
@@ -45,10 +45,12 @@ func (t *telegramBot) txtConvert(chatID int64) {
 	err := t.converter.ConvertTXTToPostgres(context.Background())
 	if err != nil {
 		t.handleGeneralError("TXT converted into postgresql Failed: "+err.Error(), chatID)
+		return
 	}
 
 	msgCfg := tgbotapi.NewMessage(chatID, "TXT converted into postgresql successfully")
 	t.sendMsg(msgCfg)
+
 }
 
 func (t *telegramBot) createBackupDB(chatID int64) {

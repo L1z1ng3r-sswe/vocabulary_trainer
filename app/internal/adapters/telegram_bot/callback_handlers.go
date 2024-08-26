@@ -72,8 +72,6 @@ func (t *telegramBot) handleQuizMode(option string, chatID int64) {
 			return
 		}
 
-		fmt.Println(t.combinedQuiz)
-
 		// Determine the word to display based on the isEnglish flag
 		var wordToTranslate string
 		if t.isEnglish {

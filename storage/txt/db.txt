@@ -1674,3 +1674,451 @@ foundation, faʊnˈdeɪʃən, foundátion \ основание \1
 The foundation of the building was made of stone.\Основание здания было сделано из камня.\1
 She laid the foundation for a successful career.\Она заложила основу для успешной карьеры.\1
 The charity provides a strong foundation for community support.\Благотворительная организация обеспечивает надежную основу для поддержки сообщества.\1
+outsider, ˈaʊtˌsaɪdər, outsíder\человек со стороны\1
+He felt like an outsider in his new school.\Он чувствовал себя человеком со стороны в новой школе.\1
+As an outsider, she had a unique perspective on the situation.\Как человек со стороны, у нее был уникальный взгляд на ситуацию.\1
+The company was wary of outsiders influencing their decisions.\Компания опасалась, что люди со стороны будут влиять на их решения.\1
+boilerplate, ˈbɔɪlərˌpleɪt, bóilerplate\технический шаблон\1
+The contract contained a lot of boilerplate language.\Контракт содержал много шаблонных формулировок.\1
+He used boilerplate code to save time on repetitive tasks.\Он использовал шаблонный код, чтобы сэкономить время на повторяющихся задачах.\1
+Boilerplate statements filled the company's annual report.\Шаблонные заявления заполнили годовой отчет компании.\1
+alumnus, əˈlʌmnəs, aluḿnus\выпускник\1
+He is an alumnus of the university.\Он выпускник этого университета.\1
+The alumnus returned to give a lecture to the students.\Выпускник вернулся, чтобы прочитать лекцию студентам.\1
+The school is proud of its famous alumnus.\Школа гордится своим известным выпускником.\1
+offset, ˈɔːfsɛt, óffset\компенсация\1
+The company offered a bonus to offset the inconvenience.\Компания предложила бонус, чтобы компенсировать неудобства.\1
+He planted trees to offset his carbon footprint.\Он посадил деревья, чтобы компенсировать свой углеродный след.\1
+The tax offset helped reduce his overall expenses.\Налоговая компенсация помогла сократить его общие расходы.\1
+concerns, kənˈsɜːnz, cońcerns\интересы\1
+The concerns of the community were addressed at the meeting.\Интересы сообщества были рассмотрены на собрании.\1
+She voiced her concerns about the new policy.\Она высказала свои опасения по поводу новой политики.\1
+His concerns were mainly about the project's timeline.\Его интересы в основном касались сроков проекта.\1
+all that is left to do, ɔːl ðæt ɪz lɛft tuː duː, alĺ that is left to do\все, что осталось сделать\1
+All that is left to do is sign the contract.\Все, что осталось сделать, это подписать контракт.\1
+After finishing the report, all that is left to do is submit it.\После завершения отчета все, что осталось сделать, это отправить его.\1
+All that is left to do now is wait for the results.\Все, что осталось сделать, это дождаться результатов.\1
+adopted, əˈdɒptɪd, adópted\приемный\1
+They adopted a child from another country.\Они усыновили ребенка из другой страны.\1
+The adopted policies were implemented immediately.\Принятые политики были немедленно введены в действие.\1
+She felt loved by her adopted family.\Она чувствовала себя любимой в своей приемной семье.\1
+prevalent, ˈprɛvələnt, pŕevalent\распространенный\1
+This belief is prevalent in many cultures.\Это убеждение распространено во многих культурах.\1
+The prevalent use of smartphones has changed communication.\Широкое использование смартфонов изменило общение.\1
+The disease was prevalent in rural areas.\Эта болезнь была распространена в сельских районах.\1
+to propagate, ˈprɒpəɡeɪt, to própagate\распространять\1
+They used social media to propagate their ideas.\Они использовали социальные сети для распространения своих идей.\1
+The plant can propagate quickly in this environment.\Растение может быстро распространяться в этой среде.\1
+Misinformation can propagate rapidly online.\Дезинформация может быстро распространяться в интернете.\1
+frustrated, frʌˈstreɪtɪd, frústrated\разочарован\1
+She felt frustrated by the lack of progress.\Она чувствовала себя разочарованной из-за отсутствия прогресса.\1
+He was frustrated with the constant delays.\Он был разочарован постоянными задержками.\1
+The frustrated team worked late to meet the deadline.\Разочарованная команда работала допоздна, чтобы уложиться в срок.\1
+unsustainable, ˌʌnsəˈsteɪnəbl, unsustáinable\непосильный\1
+The current workload is unsustainable.\Текущая рабочая нагрузка непосильна.\1
+Their business model is unsustainable in the long run.\Их бизнес-модель непосильна в долгосрочной перспективе.\1
+The environmental impact of the project was unsustainable.\Экологические последствия проекта были непосильными.\1
+monstrously, ˈmɒnstrəsli, mónstrously\чудовищно\1
+The villain's actions were monstrously cruel.\Действия злодея были чудовищно жестоки.\1
+He was monstrously large, towering over everyone else.\Он был чудовищно огромен, возвышаясь над всеми остальными.\1
+The situation was handled monstrously, causing widespread outrage.\Ситуация была чудовищно плохо решена, вызвав всеобщее возмущение.\1
+to bare, bɛər, to b́are\обнажить\1
+He decided to bare his soul to her.\Он решил обнажить перед ней свою душу.\1
+The tree's branches were bare after the storm.\Ветви дерева были обнажены после шторма.\1
+She bared her teeth in a fierce snarl.\Она обнажила зубы в яростном рыке.\1
+bare, bɛər, b́are\обнаженный\1
+He walked barefoot on the bare ground.\Он шел босиком по голой земле.\1
+The room was bare, with no furniture in it.\Комната была пустой, без мебели.\1
+Her bare arms were cold in the winter wind.\Ее голые руки мерзли на зимнем ветру.\1
+dedication, ˌdɛdɪˈkeɪʃən, ded́ication\преданность\1
+Her dedication to her work is admirable.\Ее преданность работе вызывает восхищение.\1
+He showed great dedication in completing the project.\Он проявил большую преданность в завершении проекта.\1
+The book's dedication was to her parents.\Посвящение в книге было адресовано ее родителям.\1
+to be present, ˈprɛzənt, to be preśent\присутствовать\1
+You must be present at the meeting.\Вы должны присутствовать на собрании.\1
+She was present during the entire event.\Она присутствовала на всем мероприятии.\1
+He liked to be present in the moment, enjoying life.\Ему нравилось быть в настоящем, наслаждаясь жизнью.\1
+to absorb, əbˈzɔːb, to absórb\поглощать\1
+The sponge can absorb a lot of water.\Губка может поглотить много воды.\1
+He tried to absorb all the information from the lecture.\Он пытался поглотить всю информацию с лекции.\1
+The material is designed to absorb sound.\Материал предназначен для поглощения звука.\1
+nutrients, ˈnjuːtrɪənts, ńutrients\полезные вещества\1
+Plants need nutrients to grow.\Растениям нужны полезные вещества для роста.\1
+The soil is rich in nutrients.\Почва богата полезными веществами.\1
+Your body requires nutrients from food to stay healthy.\Вашему организму нужны полезные вещества из пищи, чтобы оставаться здоровым.\1
+intestines, ɪnˈtɛstɪnz, int́estines\кишечник\1
+The intestines play a key role in digestion.\Кишечник играет ключевую роль в пищеварении.\1
+The doctor examined his intestines for any blockages.\Доктор обследовал его кишечник на наличие препятствий.\1
+A healthy diet is important for maintaining good intestinal health.\Здоровая диета важна для поддержания здоровья кишечника.\1
+to chew, tʃuː, to ch́ew\жевать\1
+It's important to chew your food properly.\Важно тщательно пережевывать пищу.\1
+He was chewing gum while waiting for the bus.\Он жевал жвачку, ожидая автобус.\1
+The dog loves to chew on his toys.\Собака любит жевать свои игрушки.\1
+it goes into, ɪt ɡəʊz ˈɪntuː, it góes into\попадает в\1
+The food goes into the stomach for digestion.\Еда попадает в желудок для пищеварения.\1
+Once the paperwork is signed, it goes into the system.\Как только документы подписаны, они попадают в систему.\1
+After the meeting, the plan goes into effect.\После встречи план вступает в силу.\1
+campfire, ˈkæmpfaɪər, ćampfire\костер\1
+We gathered around the campfire to tell stories.\Мы собрались вокруг костра, чтобы рассказывать истории.\1
+The campfire crackled warmly in the night.\Костер тепло потрескивал ночью.\1
+They roasted marshmallows over the campfire.\Они жарили зефир на костре.\1
+to stir, stɜːr, to st́ir\мешать, перемешать\1
+He used a spoon to stir the soup.\Он использовал ложку, чтобы перемешать суп.\1
+The news stirred emotions in the community.\Эти новости вызвали эмоции в сообществе.\1
+The wind stirred the leaves on the ground.\Ветер взволновал листья на земле.\1
+to stick, stɪk, to st́ick\приклеить\1
+He used glue to stick the pieces together.\Он использовал клей, чтобы склеить детали.\1
+The note was stuck to the fridge door.\Заметка была приклеена к дверце холодильника.\1
+The label won't stick to the wet surface.\Этикетка не приклеивается к мокрой поверхности.\1
+occupy smth, ˈɒkjʊpaɪ smth, óccupy smth\занимать\1
+They plan to occupy the building by next month.\Они планируют занять здание к следующему месяцу.\1
+The army occupied the town without resistance.\Армия заняла город без сопротивления.\1
+His thoughts were occupied with work all day.\Его мысли весь день были заняты работой.\1
+lips, lɪps, líps\губы\1
+Her lips were chapped from the cold.\Ее губы потрескались от холода.\1
+He kissed her gently on the lips.\Он нежно поцеловал ее в губы.\1
+The lipstick highlighted her full lips.\Помада подчеркивала ее полные губы.\1
+hot spring, hɒt sprɪŋ, hot spŕing\горячий источник\1
+They visited a hot spring during their vacation.\Они посетили горячий источник во время отпуска.\1
+The hot spring was a natural wonder in the area.\Горячий источник был природным чудом в этом районе.\1
+Bathing in a hot spring is relaxing and therapeutic.\Купание в горячем источнике расслабляет и оказывает лечебное действие.\1
+gloomy, ˈɡluːmi, glóomy\унылый, угрюмый\1
+The weather was gloomy all week.\Погода была унылой всю неделю.\1
+His outlook on life became increasingly gloomy.\Его взгляд на жизнь становился все более угрюмым.\1
+The room felt gloomy with the curtains drawn.\Комната казалась унылой с закрытыми шторами.\1
+foreboding, fɔːˈbəʊdɪŋ, forebóoding\предчувствие\1
+She had a sense of foreboding before the storm.\У нее было предчувствие перед бурей.\1
+His foreboding words made everyone uneasy.\Его предчувственные слова заставили всех почувствовать тревогу.\1
+There was a foreboding silence in the room.\В комнате царила предчувственная тишина.\1
+grim, ɡrɪm, gŕim\мрачный\1
+The news was grim and left everyone in shock.\Новости были мрачными и шокировали всех.\1
+His expression was grim as he delivered the bad news.\Его выражение лица было мрачным, когда он сообщил плохие новости.\1
+The future looked grim due to the economic crisis.\Будущее казалось мрачным из-за экономического кризиса.\1
+caption, ˈkæpʃən, ćaption\подпись\1
+The caption under the photo was misleading.\Подпись под фотографией была вводящей в заблуждение.\1
+She added a humorous caption to her Instagram post.\Она добавила юмористическую подпись к своему посту в Instagram.\1
+The caption explained the historical context of the image.\Подпись объясняла исторический контекст изображения.\1
+to weigh, weɪ, to ẃeigh\взвешивать\1
+He used a scale to weigh the ingredients.\Он использовал весы, чтобы взвесить ингредиенты.\1
+The decision weighed heavily on his mind.\Решение тяжело давило на его разум.\1
+She weighed her options carefully before choosing.\Она тщательно взвешивала свои варианты, прежде чем сделать выбор.\1
+anymore, ˌɛnɪˈmɔːr, anymóre\больше не\1
+I don't live in that city anymore.\Я больше не живу в этом городе.\1
+She doesn't work there anymore.\Она больше там не работает.\1
+He doesn't care about it anymore.\Ему больше это не интересно.\1
+at first glance, æt fɜːst ɡlɑːns, at first gĺance\на первый взгляд\1
+At first glance, the task seemed easy.\На первый взгляд задача казалась легкой.\1
+The painting appeared simple at first glance, but it was very detailed.\Картина казалась простой на первый взгляд, но была очень детализированной.\1
+At first glance, the proposal seemed perfect.\На первый взгляд предложение казалось идеальным.\1
+insist on smth, ɪnˈsɪst ɒn smth, insíst on smth\настаивать на чем-то\1
+She insisted on staying late to finish the work.\Она настояла на том, чтобы задержаться допоздна, чтобы закончить работу.\1
+He insisted on paying for dinner.\Он настоял на том, чтобы заплатить за ужин.\1
+They insisted on being included in the meeting.\Они настояли на том, чтобы их включили в собрание.\1
+subordinate, səˈbɔːrdɪnɪt, subórdinate\подчиненный\1
+He treated his subordinates with respect.\Он относился к своим подчиненным с уважением.\1
+The subordinate followed the manager's instructions.\Подчиненный следовал указаниям менеджера.\1
+She was promoted from a subordinate role to a leadership position.\Ее повысили с подчиненной должности до руководящей.\1
+I'm counting on smth, aɪm ˈkaʊntɪŋ ɒn smth, I'm counting on smth\я рассчитываю на что-то\1
+I'm counting on you to help me with this project.\Я рассчитываю на тебя, чтобы помочь мне с этим проектом.\1
+I'm counting on good weather for the picnic.\Я рассчитываю на хорошую погоду для пикника.\1
+I'm counting on your support during the meeting.\Я рассчитываю на твою поддержку во время собрания.\1
+to be worth / not, tə bi wɜːθ / nɒt, to be worth / not\стоить / не стоить\1
+The book is worth reading.\Книгу стоит прочитать.\1
+It's not worth arguing over something so trivial.\Не стоит спорить о чем-то таком незначительном.\1
+The investment was worth the risk.\Инвестиция стоила риска.\1
+costs, kɒsts, cósts\издержки\1
+The project ran over budget due to unexpected costs.\Проект превысил бюджет из-за неожиданных издержек.\1
+They calculated the total costs before starting the project.\Они подсчитали общие издержки перед началом проекта.\1
+The costs of living in the city are high.\Издержки на жизнь в городе высоки.\1
+commit to smth, kəˈmɪt tə smth, commít to smth\закладываться на что-то\1
+He committed to finishing the project on time.\Он обязался закончить проект в срок.\1
+She committed to a daily exercise routine.\Она взяла на себя обязательство заниматься спортом каждый день.\1
+The company committed to reducing its carbon footprint.\Компания взяла на себя обязательство сократить углеродный след.\1
+to drag smth, dræɡ smth, to dŕag smth\тащить что-то\1
+He had to drag the heavy suitcase up the stairs.\Ему пришлось тащить тяжелый чемодан по лестнице.\1
+She dragged the chair across the room.\Она тащила стул через комнату.\1
+They dragged the boat to the shore.\Они тащили лодку к берегу.\1
+to reset, rɪˈsɛt, to ŕeset\сбросить\1
+He reset the computer after it crashed.\Он сбросил компьютер после сбоя.\1
+The system needs to be reset every morning.\Систему нужно сбрасывать каждое утро.\1
+She reset the alarm clock before going to bed.\Она сбросила будильник перед сном.\1
+to represent smth, ˌrɛprɪˈzɛnt smth, to represént smth\представлять что-то\1
+The flag represents the country’s values.\Флаг представляет ценности страны.\1
+He was chosen to represent the company at the conference.\Он был выбран для представления компании на конференции.\1
+The statue represents an important historical figure.\Статуя представляет важного исторического деятеля.\1
+shore, ʃɔːr, sh́ore\берег\1
+We walked along the shore at sunset.\Мы гуляли по берегу на закате.\1
+The boat reached the shore safely.\Лодка благополучно добралась до берега.\1
+The shore was lined with smooth pebbles.\Берег был усыпан гладкими камнями.\1
+coast, kəʊst, ćoast\побережье\1
+They drove along the coast, enjoying the view.\Они ехали вдоль побережья, наслаждаясь видом.\1
+The coast was dotted with small fishing villages.\Побережье было усеяно маленькими рыбацкими деревнями.\1
+A storm was approaching the coast.\Шторм приближался к побережью.\1
+hangover, ˈhæŋoʊvər, hángover\похмелье\1
+He had a terrible hangover after the party.\У него было ужасное похмелье после вечеринки.\1
+She spent the day recovering from a hangover.\Она провела день, приходя в себя после похмелья.\1
+A hangover can last for several hours or even a full day.\Похмелье может длиться несколько часов или даже целый день.\1
+mine, maɪn, ḿine\рудник\1
+They worked in the coal mine for years.\Они работали в угольном руднике много лет.\1
+The mine was shut down due to safety concerns.\Рудник был закрыт из-за опасений по поводу безопасности.\1
+He discovered a gold mine on his property.\Он обнаружил золотой рудник на своей собственности.\1
+shovels, ˈʃʌvəlz, sh́ovels\лопаты\1
+They used shovels to dig a hole for the tree.\Они использовали лопаты, чтобы выкопать яму для дерева.\1
+The workers carried shovels over their shoulders.\Рабочие несли лопаты на плечах.\1
+He bought new shovels for the garden.\Он купил новые лопаты для сада.\1
+labour, ˈleɪbə, ĺabour\труд\1
+The labour was hard but rewarding.\Труд был тяжелым, но вознаграждающим.\1
+They provided cheap labour for the construction project.\Они предоставили дешевую рабочую силу для строительного проекта.\1
+Labour unions fought for workers' rights.\Профсоюзы боролись за права рабочих.\1
+content/contents, ˈkɒntɛnt / ˈkɒntɛnts, ćontent/ćontents\содержание\1
+The content of the book was fascinating.\Содержание книги было захватывающим.\1
+She reviewed the contents of the box.\Она проверила содержимое коробки.\1
+The contents of the email were confidential.\Содержание письма было конфиденциальным.\1
+notice smth just for, ˈnəʊtɪs smth dʒʌst fɔːr, nótice smth just for\заметить что-то просто ради\1
+He noticed the mistake just for a moment.\Он заметил ошибку всего на мгновение.\1
+She noticed the change in his behavior just for an instant.\Она заметила изменение в его поведении всего на мгновение.\1
+I noticed it just for the sake of curiosity.\Я заметил это просто из любопытства.\1
+elsewhere, ɛlsˈwɛər, élsewhere\куда-нибудь в другое место\1
+They decided to look elsewhere for a solution.\Они решили искать решение в другом месте.\1
+The event was moved elsewhere due to the weather.\Мероприятие было перенесено в другое место из-за погоды.\1
+The treasure was hidden elsewhere on the island.\Сокровище было спрятано в другом месте на острове.\1
+busty, ˈbʌsti, bústy\пышногрудая\1
+She was known for her busty figure.\Ее знали за пышные формы.\1
+The character in the comic was depicted as busty.\Персонаж в комиксе был изображен пышногрудой.\1
+The dress was designed to accentuate a busty silhouette.\Платье было разработано, чтобы подчеркнуть пышный силуэт.\1
+split smth apart, splɪt smth əˈpɑːt, splít smth apart\разделить что-то\1
+They split the cake apart to share it.\Они разделили торт, чтобы поделиться им.\1
+The earthquake split the ground apart.\Землетрясение разделило землю.\1
+He split the team apart for the new project.\Он разделил команду для нового проекта.\1
+tummy, ˈtʌmi, túmmy\животик\1
+The child held his tummy after eating too much.\Ребенок держался за животик после того, как переел.\1
+She has a flat tummy from all the exercise.\У нее плоский животик благодаря упражнениям.\1
+He tickled the baby's tummy, making her laugh.\Он пощекотал животик ребенка, заставив его смеяться.\1
+gipsy, gypsies, ˈdʒɪpsi, ˈdʒɪpsiz, ǵipsy, ǵypsies\цыган, цыгане\1
+The gipsy woman told his fortune.\Цыганка предсказала ему судьбу.\1
+They saw a group of gypsies traveling through the town.\Они видели группу цыган, проезжающих через город.\1
+The music had a gipsy flair to it.\Музыка имела цыганский колорит.\1
+brawler, ˈbrɔːlər, bráwler\скандалист, дебошир, драчун\1
+He was known as a brawler in his youth.\В молодости его знали как драчливого человека.\1
+The brawler was quickly subdued by the police.\Драчун был быстро усмирен полицией.\1
+The tavern was a common place for brawlers to gather.\Таверна была обычным местом для сборищ скандалистов.\1
+redeemer, rɪˈdiːmər, redéemer\спаситель\1
+He was seen as the redeemer of the people.\Его считали спасителем народа.\1
+The redeemer figure is common in many religions.\Фигура спасителя распространена во многих религиях.\1
+The town's redeemer was honored with a statue.\Городского спасителя увековечили в статуе.\1
+valor, ˈvælər, válor\доблесть\1
+His valor in battle earned him many medals.\Его доблесть в бою принесла ему множество медалей.\1
+She was admired for her valor during the crisis.\Ее восхищались за доблесть во время кризиса.\1
+The story of his valor became legendary.\История его доблести стала легендарной.\1
+to obey, əˈbeɪ, to obéy\подчиняться, повиноваться\1
+The soldiers were trained to obey orders without question.\Солдаты были обучены подчиняться приказам без вопросов.\1
+He refused to obey the unjust laws.\Он отказался подчиняться несправедливым законам.\1
+Children are taught to obey their parents.\Детей учат повиноваться родителям.\1
+smth is for sure, smth ɪz fər ʃʊər, smth is for sure\точно\1
+One thing is for sure, we need to act quickly.\Одно можно сказать точно: нам нужно действовать быстро.\1
+It's for sure that they will support the plan.\Это точно, что они поддержат план.\1
+The outcome is for sure, there's no doubt about it.\Результат точно ясен, в этом нет никаких сомнений.\1
+deposit, dɪˈpɒzɪt, depósit\месторождение\1
+They discovered a large deposit of gold.\Они обнаружили большое месторождение золота.\1
+The oil deposit was deep underground.\Месторождение нефти находилось глубоко под землей.\1
+He invested money in a high-interest deposit account.\Он вложил деньги в депозитный счет с высоким процентом.\1
+raft, ræft, ŕaft\плот\1
+They built a raft to cross the river.\Они построили плот, чтобы пересечь реку.\1
+The raft was swept away by the current.\Плот унесло течением.\1
+He spent hours floating on the raft in the lake.\Он провел несколько часов, дрейфуя на плоту в озере.\1
+to bury, ˈbɛri, to b́ury\хоронить\1
+They buried the treasure in the backyard.\Они закопали сокровище на заднем дворе.\1
+He was buried in a small cemetery near the village.\Его похоронили на маленьком кладбище возле деревни.\1
+She buried her face in her hands, crying.\Она уткнулась лицом в ладони, плача.\1
+to smear smth with another thing, smɪər smth wɪð əˈnʌðər θɪŋ, to sḿear smth with another thing\намазать что-то чем-то\1
+He smeared the bread with butter.\Он намазал хлеб маслом.\1
+The kids smeared paint all over the walls.\Дети размазали краску по всем стенам.\1
+She smeared her face with sunscreen before going out.\Она намазала лицо солнцезащитным кремом перед выходом на улицу.\1
+palm, pɑːm, ṕalm\ладонь, длань\1
+He placed the coin in the palm of her hand.\Он положил монету в ее ладонь.\1
+She held the delicate flower in her palm.\Она держала хрупкий цветок на ладони.\1
+The palm trees swayed in the tropical breeze.\Пальмы покачивались на тропическом бризе.\1
+outer smth, ˈaʊtə smth, óuter smth\внешний\1
+The outer layer of the earth is called the crust.\Внешний слой земли называется корой.\1
+The building's outer walls were damaged in the storm.\Внешние стены здания были повреждены в шторм.\1
+She wore an outer jacket over her clothes.\Она надела верхнюю куртку поверх одежды.\1
+equator, ɪˈkweɪtə, equátor\экватор\1
+The equator divides the Earth into the Northern and Southern Hemispheres.\Экватор делит Землю на Северное и Южное полушария.\1
+The climate near the equator is typically hot and humid.\Климат около экватора обычно жаркий и влажный.\1
+They traveled to a country near the equator for vacation.\Они отправились в страну, расположенную близ экватора, на каникулы.\1
+pole, pəʊl, ṕole\полюс\1
+The North Pole is located at the top of the Earth.\Северный полюс расположен на вершине Земли.\1
+They set up a flagpole in the middle of the yard.\Они установили флагшток посреди двора.\1
+The tent was supported by a central pole.\Палатка поддерживалась центральным столбом.\1
+latitude, ˈlætɪˌtjuːd, ĺatitude\широта\1
+The city is located at a latitude of 40 degrees north.\Город расположен на широте 40 градусов северной широты.\1
+He studied the latitude and longitude of various locations.\Он изучал широту и долготу различных мест.\1
+The latitude of the region affects its climate.\Широта региона влияет на его климат.\1
+longitude, ˈlɒndʒɪˌtjuːd, ĺongitude\долгота\1
+The prime meridian is at 0 degrees longitude.\Начальный меридиан находится на 0 градусах долготы.\1
+The ship's captain plotted their course by longitude.\Капитан корабля проложил их курс по долготе.\1
+Longitude and latitude are used to specify the exact location.\Долгота и широта используются для указания точного местоположения.\1
+off topic, ˈɒf ˈtɒpɪk, off t́opic\отклонение от темы\1
+The discussion went off topic several times.\Обсуждение несколько раз отклонялось от темы.\1
+He brought the conversation back on topic after it drifted off.\Он вернул разговор на тему после того, как он ушел в сторону.\1
+Let's not go off topic and stay focused on the main issue.\Давайте не будем отклоняться от темы и сосредоточимся на главном вопросе.\1
+get back, ɡɛt bæk, get b́ack\вернуться\1
+She asked him to get back to her as soon as possible.\Она попросила его связаться с ней как можно скорее.\1
+He tried to get back the money he had lost.\Он пытался вернуть деньги, которые потерял.\1
+The team needs to get back to their winning ways.\Команде нужно вернуться к своим победным путям.\1
+sleep tight, sliːp taɪt, sĺeep tight\спокойной ночи\1
+She whispered, "Sleep tight," before turning off the light.\Она прошептала: «Спокойной ночи», перед тем как выключить свет.\1
+"Sleep tight and don't let the bedbugs bite," he said jokingly.\«Спокойной ночи, не дайте клопам вас кусать», — пошутил он.\1
+They told their child to sleep tight after reading a bedtime story.\Они пожелали своему ребенку спокойной ночи после того, как прочитали сказку на ночь.\1
+to rise, to raise, raɪz, reɪz, to ŕise, to ŕaise\подниматься, поднимать\1
+The sun rises in the east.\Солнце встает на востоке.\1
+He raised his hand to ask a question.\Он поднял руку, чтобы задать вопрос.\1
+The company plans to raise prices next year.\Компания планирует поднять цены в следующем году.\1
+convey smth, kənˈveɪ smth, convéy smth\передать что-то\1
+The letter conveyed his deepest sympathies.\Письмо передало его глубокие соболезнования.\1
+She used art to convey her emotions.\Она использовала искусство, чтобы передать свои эмоции.\1
+The message was conveyed clearly to all employees.\Сообщение было четко передано всем сотрудникам.\1
+complaint, kəmˈpleɪnt, compláint\жалоба, претензии\1
+She filed a complaint with the company.\Она подала жалобу в компанию.\1
+His complaint was about the poor service.\Его жалоба касалась плохого обслуживания.\1
+The complaint was handled quickly and efficiently.\Жалоба была рассмотрена быстро и эффективно.\1
+desperate, ˈdɛspərɪt, despérate\отчаянный\1
+He made a desperate attempt to save the situation.\Он предпринял отчаянную попытку спасти ситуацию.\1
+She felt desperate after losing her job.\Она чувствовала себя отчаянной после потери работы.\1
+The desperate cry for help was heard by the neighbors.\Отчаянный крик о помощи услышали соседи.\1
+finite, ˈfaɪnaɪt, f́inite\конечный\1
+The earth's resources are finite.\Ресурсы земли конечны.\1
+He realized that time is finite and precious.\Он осознал, что время конечно и бесценно.\1
+The contract was for a finite period.\Контракт был на определенный срок.\1
+take smth out, teɪk smth aʊt, t́ake smth out\выносить что-то\1
+He took the trash out to the curb.\Он вынес мусор к обочине.\1
+She took out her frustration on her coworkers.\Она сорвала свое разочарование на коллегах.\1
+They took the dog out for a walk.\Они вывели собаку на прогулку.\1
+wait a bit, weɪt ə bɪt, ẃait a bit\подождать немного\1
+Can you wait a bit while I finish this?\Можешь подождать немного, пока я закончу это?\1
+He decided to wait a bit before making a decision.\Он решил немного подождать, прежде чем принять решение.\1
+Wait a bit, I'll be with you in a moment.\Подождите немного, я сейчас подойду.\1
+dam, dæm, d́am\плотина\1
+The dam was built to control the river flow.\Плотина была построена для контроля за течением реки.\1
+They visited the dam during their trip.\Они посетили плотину во время поездки.\1
+The dam burst, causing widespread flooding.\Плотина прорвалась, вызвав широкомасштабное наводнение.\1
+beaver, ˈbiːvər, b́eaver\бобр\1
+The beaver is known for building dams in rivers.\Бобр известен тем, что строит плотины в реках.\1
+They spotted a beaver near the lake.\Они заметили бобра у озера.\1
+The beaver's lodge was hidden in the reeds.\Домик бобра был спрятан в камышах.\1
+extra smth, ˈɛkstrə smth, éxtra smth\лишнее что-то\1
+They packed extra clothes for the trip.\Они упаковали лишнюю одежду для поездки.\1
+The restaurant charged extra for the special ingredients.\Ресторан взял лишнюю плату за специальные ингредиенты.\1
+There was extra work to be done before the deadline.\Перед сроком нужно было сделать лишнюю работу.\1
+towel, ˈtaʊəl, tówel\полотенце\1
+He grabbed a towel after his shower.\Он схватил полотенце после душа.\1
+The beach towel was spread out on the sand.\Пляжное полотенце было расстелено на песке.\1
+She used a towel to dry her hair.\Она использовала полотенце, чтобы высушить волосы.\1
+teddy, ˈtɛdi, téddy\плюшевый\1
+She had a collection of teddy bears.\У нее была коллекция плюшевых мишек.\1
+The child hugged his teddy bear tightly.\Ребенок крепко обнял своего плюшевого мишку.\1
+The teddy bear was a gift from her grandmother.\Плюшевый мишка был подарком от бабушки.\1
+curiosity, ˌkjʊərɪˈɒsɪti, curióusity\любопытство\1
+Her curiosity led her to explore the abandoned house.\Ее любопытство привело ее к исследованию заброшенного дома.\1
+The child's curiosity was insatiable.\Любопытство ребенка было неутолимым.\1
+Curiosity drove him to learn more about the subject.\Любопытство заставило его узнать больше о предмете.\1
+make smb feel ..., meɪk smb fiːl, make smb feel ...\заставить кого-то чувствовать\1
+He made her feel special with his kind words.\Он заставил ее чувствовать себя особенной своими добрыми словами.\1
+The news made everyone feel anxious.\Новости заставили всех почувствовать тревогу.\1
+The teacher's praise made the student feel proud.\Похвала учителя заставила ученика почувствовать гордость.\1
+leading smth, ˈliːdɪŋ smth, ĺeading smth\ведущий\1
+He is the leading expert in his field.\Он ведущий эксперт в своей области.\1
+The company is leading the market in innovation.\Компания лидирует на рынке в области инноваций.\1
+She played a leading role in the project.\Она играла ведущую роль в проекте.\1
+applause, əˈplɔːz, apláuse\аплодисменты\1
+The audience broke into applause at the end of the performance.\Зрители разразились аплодисментами в конце представления.\1
+She received loud applause for her speech.\Она получила громкие аплодисменты за свою речь.\1
+The applause echoed through the theater.\Аплодисменты эхом разнеслись по театру.\1
+cloth, klɒθ, cĺoth\тряпка\1
+He used a cloth to wipe the table.\Он использовал тряпку, чтобы протереть стол.\1
+The cloth was dirty after cleaning the floor.\Тряпка была грязной после уборки пола.\1
+She wrung out the wet cloth before using it again.\Она выжала мокрую тряпку перед повторным использованием.\1
+doormat, ˈdɔːrmæt, dórmat\тряпка (человек)\1
+He was tired of being treated like a doormat by his friends.\Он устал от того, что друзья обращались с ним как с тряпкой.\1
+She refused to be a doormat in the relationship.\Она отказалась быть тряпкой в отношениях.\1
+Don't let people walk all over you like a doormat.\Не позволяй людям обращаться с тобой как с тряпкой.\1
+absorbent, əbˈzɔːrbənt, absórbent\впитывающий\1
+The material is highly absorbent, perfect for cleaning up spills.\Материал очень впитывающий, идеально подходит для уборки разливов.\1
+He bought absorbent towels for the kitchen.\Он купил впитывающие полотенца для кухни.\1
+The absorbent fabric was used to make diapers.\Впитывающая ткань использовалась для изготовления подгузников.\1
+to absorb, əbˈzɔːb, to absórb\поглощать, впитывать\1
+The sponge can absorb a lot of water.\Губка может поглотить много воды.\1
+He tried to absorb all the information from the lecture.\Он пытался поглотить всю информацию с лекции.\1
+The material is designed to absorb sound.\Материал предназначен для поглощения звука.\1
+bundle, ˈbʌndl, b́undle\пучок\1
+She tied the sticks into a bundle.\Она связала палочки в пучок.\1
+The bundle of newspapers was left on the doorstep.\Пучок газет оставили на пороге.\1
+He carried a bundle of clothes under his arm.\Он нес пучок одежды под мышкой.\1
+bunch, bʌntʃ, b́unch\связка, пучок\1
+She gave him a bunch of flowers.\Она подарила ему пучок цветов.\1
+The keys were all on a bunch of rings.\Ключи были все на пучке колец.\1
+He ate a bunch of grapes.\Он съел пучок винограда.\1
+fill smth with ..., fɪl smth wɪð, f́ill smth with ...\наполнить что-то чем-то\1
+She filled the glass with water.\Она наполнила стакан водой.\1
+The room was filled with laughter.\Комната была наполнена смехом.\1
+He filled the box with old books.\Он наполнил коробку старыми книгами.\1
+growth, ɡrəʊθ, gŕowth\рост\1
+The company has seen steady growth over the past year.\Компания наблюдала устойчивый рост за последний год.\1
+The plant's growth was stunted by lack of sunlight.\Рост растения был замедлен из-за недостатка солнечного света.\1
+There has been significant growth in the tech industry.\В технологической отрасли наблюдается значительный рост.\1
+agile, ˈædʒaɪl, ágile\проворный\1
+The cat was agile, quickly dodging the obstacles.\Кот был проворным, быстро уклоняясь от препятствий.\1
+She moved with agile grace across the dance floor.\Она двигалась с проворной грацией по танцполу.\1
+The agile athlete easily completed the difficult routine.\Проворный спортсмен легко выполнил сложную программу.\1
+to excel, ɪkˈsɛl, to excél\преуспевать\1
+She excels in mathematics and science.\Она преуспевает в математике и науке.\1
+He excelled in his role as a leader.\Он преуспел в своей роли лидера.\1
+The team excelled beyond expectations in the competition.\Команда преуспела сверх ожиданий в соревнованиях.\1
+dental, ˈdɛntəl, d́ental\стоматологический\1
+She went to the dental clinic for a check-up.\Она пошла в стоматологическую клинику на осмотр.\1
+He needed dental work to fix a cavity.\Ему потребовалась стоматологическая помощь для лечения кариеса.\1
+The dental hygienist cleaned her teeth thoroughly.\Стоматолог-гигиенист тщательно почистил ей зубы.\1
+defining, dɪˈfaɪnɪŋ, defíning\отличительный\1
+The defining moment of his career was winning the award.\Определяющим моментом его карьеры стало получение награды.\1
+Her defining characteristic is her kindness.\Ее отличительной чертой является доброта.\1
+The defining feature of the house is its large windows.\Отличительной особенностью дома являются большие окна.\1
+seek, sought, sought, siːk, sɔːt, sɔːt, séek, sóught, sóught\искать\1
+He sought advice from his mentor.\Он искал совета у своего наставника.\1
+They sought shelter from the storm.\Они искали убежище от шторма.\1
+She sought a solution to the problem.\Она искала решение проблемы.\1
+fit in, fɪt ɪn, f́it in\поместиться\1
+The furniture won't fit in the small room.\Мебель не поместится в маленькой комнате.\1
+He tried to fit in with the new group.\Он пытался вписаться в новую группу.\1
+The suitcase barely fit in the trunk of the car.\Чемодан едва поместился в багажнике машины.\1
+to be as follows, tə bi æz ˈfɒləʊz, to be as fóllows\заключаться\1
+The rules are as follows: no talking, no phones.\Правила заключаются в следующем: никаких разговоров, никаких телефонов.\1
+The instructions are as follows: mix the ingredients and bake.\Инструкции заключаются в следующем: смешайте ингредиенты и выпекайте.\1
+The schedule for the day is as follows: meeting, lunch, presentation.\График на день заключается в следующем: встреча, обед, презентация.\1
+sober, ˈsəʊbər, sóber\трезвый\1
+He has been sober for three years.\Он трезв уже три года.\1
+She gave a sober assessment of the situation.\Она дала трезвую оценку ситуации.\1
+The sober reality of the situation was difficult to face.\Трезвая реальность ситуации была сложной для восприятия.\1
+to disown, dɪsˈəʊn, to disówn\отречься\1
+He was disowned by his family after the scandal.\Он был отречен своей семьей после скандала.\1
+She decided to disown her past mistakes.\Она решила отречься от своих прошлых ошибок.\1
+The company disowned responsibility for the incident.\Компания отреклась от ответственности за инцидент.\1
+of politeness, ɒv pəˈlaɪtnɪs, of politéness\из вежливости\1
+He accepted the offer out of politeness.\Он принял предложение из вежливости.\1
+She smiled out of politeness, even though she was annoyed.\Она улыбнулась из вежливости, хотя была раздражена.\1
+They stayed for dessert out of politeness.\Они остались на десерт из вежливости.\1
+bid, bɪd, b́id\ставка\1
+He placed a bid on the painting at the auction.\Он сделал ставку на картину на аукционе.\1
+The highest bid won the item.\Самая высокая ставка выиграла предмет.\1
+She made a bid for the contract.\Она сделала ставку на контракт.\1
+responsible for smth, rɪˈspɒnsɪbl fər smth, respónsible for smth\ответственный за что-то\1
+He is responsible for managing the project.\Он отвечает за управление проектом.\1
+She is responsible for the team's success.\Она отвечает за успех команды.\1
+They are responsible for maintaining the equipment.\Они отвечают за обслуживание оборудования.\1
+which smth is each of them, wɪtʃ smth ɪz iːtʃ ɒv ðɛm, which smth is éach of them\какой из них\1
+Which of these books is your favorite?\Какой из этих книг твоя любимая?\1
+Which of them is going to the party?\Кто из них идет на вечеринку?\1
+Which of these tasks is the most important?\Какая из этих задач самая важная?\1
+tender, ˈtɛndər, t́ender\нежный\1
+The meat was tender and juicy.\Мясо было нежным и сочным.\1
+She gave him a tender smile.\Она подарила ему нежную улыбку.\1
+His touch was tender and comforting.\Его прикосновение было нежным и успокаивающим.\1

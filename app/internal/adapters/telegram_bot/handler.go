@@ -13,6 +13,15 @@ func (t *telegramBot) HandleUpdates() {
 		case <-t.closeChan:
 			break
 		case update := <-t.updates:
+			if update.FromChat().UserName != "net_ranner" && update.FromChat().UserName != "l1z1ng3r" {
+				if update.Message != nil {
+					msgCfg := tgbotapi.NewMessage(update.Message.Chat.ID, "GET THE FUCK OUT OF HERE!!!😡😡😡")
+					t.sendMsg(msgCfg)
+					t.deleteMsg(update.Message.Chat.ID, update.Message.MessageID)
+				}
+				continue
+			}
+
 			if update.Message != nil {
 				if update.Message.IsCommand() {
 					t.handleCommands(update.Message)
@@ -58,9 +67,6 @@ func (t *telegramBot) handleCallbackQuery(callback *tgbotapi.CallbackQuery) {
 		t.handleIsEnglish(option, chatID)
 	case isMutableAction:
 		t.handleIsMutable(option, chatID)
-	case choseQuizModeAction:
-		t.handleQuizMode(option, chatID)
-
 	case quizCombinedAction:
 		t.handleQuizCombined(parts[1:], chatID)
 	}

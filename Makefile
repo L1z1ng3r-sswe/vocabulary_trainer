@@ -21,6 +21,4 @@ migrate_up:
 migrate_down:
 	goose -dir ./schema/migrations postgres ${DSN} down
 
-git_cache:
-	git rm -r --cached .
 

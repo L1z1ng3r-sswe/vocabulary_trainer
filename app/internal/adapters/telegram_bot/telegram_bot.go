@@ -21,6 +21,7 @@ type telegramBot struct {
 	updates      tgbotapi.UpdatesChannel
 	isEnglish    bool
 	isMutable    bool
+	currIndex    int
 	combinedQuiz domain_vocabulary_entity.WordSentencesQuiz
 }
 

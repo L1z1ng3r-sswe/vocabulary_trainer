@@ -48,52 +48,42 @@ func (t *telegramBot) handleIsMutable(option string, chatID int64) {
 		t.isMutable = false
 	}
 
-	msgCfg := tgbotapi.NewMessage(chatID, "Choose the type of the quiz:")
+	// ! if u want to check only words start------------------------------------------------
 
-	buttons := tgbotapi.NewInlineKeyboardMarkup(
-		tgbotapi.NewInlineKeyboardRow(
-			tgbotapi.NewInlineKeyboardButtonData("Combined", choseQuizModeAction+separator+combinedOption),
-			tgbotapi.NewInlineKeyboardButtonData("Words", choseQuizModeAction+separator+wordsOption),
-			tgbotapi.NewInlineKeyboardButtonData("Sentences!", choseQuizModeAction+separator+sentencesOption),
-		),
-	)
+	// msgCfg := tgbotapi.NewMessage(chatID, "Choose the type of the quiz:")
 
+	// buttons := tgbotapi.NewInlineKeyboardMarkup(
+	// 	tgbotapi.NewInlineKeyboardRow(
+	// 		tgbotapi.NewInlineKeyboardButtonData("Combined", choseQuizModeAction+separator+combinedOption),
+	// 		tgbotapi.NewInlineKeyboardButtonData("Words", choseQuizModeAction+separator+wordsOption),
+	// 		tgbotapi.NewInlineKeyboardButtonData("Sentences!", choseQuizModeAction+separator+sentencesOption),
+	// 	),
+	// )
+
+	// msgCfg.ReplyMarkup = buttons
+	// t.sendMsg(msgCfg)
+
+	// ! if u want to check only words end------------------------------------------------
+
+	var err error
+	t.combinedQuiz, err = t.service.WordsWithSentences(context.Background())
+	if err != nil {
+		t.handleGeneralError("Failed to load combined quiz"+err.Error(), chatID)
+		return
+	}
+
+	// Determine the word to display based on the isEnglish flag
+	var wordToTranslate string
+	if t.isEnglish {
+		wordToTranslate = t.combinedQuiz[0].Word.Translation // Word in English
+	} else {
+		wordToTranslate = t.combinedQuiz[0].Word.WordPronStress // Word in Russian
+	}
+
+	msgCfg := tgbotapi.NewMessage(chatID, fmt.Sprintf("Translate this: %s, %d", wordToTranslate, t.currIndex))
+	buttons := tgbotapi.NewInlineKeyboardMarkup(tgbotapi.NewInlineKeyboardRow(tgbotapi.NewInlineKeyboardButtonData("Translate", quizCombinedAction+separator+"1"+separator+"0")))
 	msgCfg.ReplyMarkup = buttons
 	t.sendMsg(msgCfg)
-}
-
-func (t *telegramBot) handleQuizMode(option string, chatID int64) {
-	switch option {
-	case combinedOption:
-		var err error
-		t.combinedQuiz, err = t.service.WordsWithSentences(context.Background())
-		if err != nil {
-			t.handleGeneralError("Failed to load combined quiz"+err.Error(), chatID)
-			return
-		}
-
-		// Determine the word to display based on the isEnglish flag
-		var wordToTranslate string
-		if t.isEnglish {
-			wordToTranslate = t.combinedQuiz[0].Word.Translation // Word in English
-		} else {
-			wordToTranslate = t.combinedQuiz[0].Word.WordPronStress // Word in Russian
-		}
-
-		msgCfg := tgbotapi.NewMessage(chatID, fmt.Sprintf("Translate this: %s", wordToTranslate))
-		buttons := tgbotapi.NewInlineKeyboardMarkup(tgbotapi.NewInlineKeyboardRow(tgbotapi.NewInlineKeyboardButtonData("Translate", quizCombinedAction+separator+"1"+separator+"0")))
-		msgCfg.ReplyMarkup = buttons
-		t.sendMsg(msgCfg)
-
-	case wordsOption:
-		// t.startWordsQuiz(chatID)
-
-	case sentencesOption:
-		// t.startSentencesQuiz(chatID)
-
-	default:
-		t.handleGeneralError("Unknown quiz mode option", chatID)
-	}
 }
 
 func (t *telegramBot) handleQuizCombined(params []string, chatID int64) {
@@ -300,7 +290,8 @@ func (t *telegramBot) handleQuizCombined(params []string, chatID int64) {
 			nextWord = t.combinedQuiz[indexInt+1].Word.WordPronStress // Word in English
 		}
 
-		msgCfg := tgbotapi.NewMessage(chatID, fmt.Sprintf("Translate this: %s", nextWord))
+		msgCfg := tgbotapi.NewMessage(chatID, fmt.Sprintf("Translate this: %s, %d", nextWord, indexInt+1))
+		t.currIndex++
 
 		msgCfg.ReplyMarkup = tgbotapi.NewInlineKeyboardMarkup(
 			tgbotapi.NewInlineKeyboardRow(

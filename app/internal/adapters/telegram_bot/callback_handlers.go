@@ -3,7 +3,9 @@ package telegram_bot
 import (
 	"context"
 	"fmt"
+	"log"
 	"strconv"
+	"time"
 
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
@@ -65,6 +67,8 @@ func (t *telegramBot) handleIsMutable(option string, chatID int64) {
 
 	// ! if u want to check only words end------------------------------------------------
 
+	log.Println("Waiting for docker")
+	time.Sleep(5 * time.Second)
 	var err error
 	t.combinedQuiz, err = t.service.WordsWithSentences(context.Background())
 	if err != nil {

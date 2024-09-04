@@ -9,11 +9,29 @@ import (
 
 type converter struct {
 	txtFilePath          string
+	sqlFilePath          string
+	zipFilePath          string
+	dbUser               string
+	dbName               string
+	dbPassword           string
+	dbPort               string
+	dbHost               string
 	vocabularyRepository domain_vocabulary_repository.Repository
 	txManager            domain_postgres.TxManager
 }
 
 // New creates a new instance of the Converter.
 func New(cfg *config.Config, vocabularyRepository domain_vocabulary_repository.Repository, txManager domain_postgres.TxManager) domain_converter.Converter {
-	return &converter{txtFilePath: cfg.TXTFilePath, vocabularyRepository: vocabularyRepository, txManager: txManager}
+	return &converter{
+		txtFilePath:          cfg.TXTFilePath,
+		sqlFilePath:          cfg.SQLFilePath,
+		zipFilePath:          cfg.ZIPFilePath,
+		dbUser:               cfg.PostgresUser,
+		dbName:               cfg.PostgresDBName,
+		dbPassword:           cfg.PostgresPassword,
+		dbPort:               cfg.PostgresPort,
+		dbHost:               cfg.PostgresHost,
+		vocabularyRepository: vocabularyRepository,
+		txManager:            txManager,
+	}
 }

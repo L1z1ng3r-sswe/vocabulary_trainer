@@ -1,8 +1,11 @@
 package infrastructure_postgres
 
 import (
+	"fmt"
+
 	"github.com/L1z1ng3r-sswe/vocabulary_trainer/app/internal/config"
 	domain_postgres "github.com/L1z1ng3r-sswe/vocabulary_trainer/app/internal/domain/db/postgres"
+	"github.com/cyberyal/custom_errors"
 	"github.com/jmoiron/sqlx"
 	_ "github.com/lib/pq"
 )
@@ -18,14 +21,17 @@ type client struct {
 
 // New creates a new PostgreSQL client
 func New(cfg *config.Config) (domain_postgres.Client, error) {
-	db, err := sqlx.Open(driverName, cfg.PostgresDSN)
+	dsn := fmt.Sprintf("host=%s port=%s user=%s password=%s dbname=%s sslmode=%s",
+		cfg.PostgresHost, cfg.PostgresPort, cfg.PostgresUser, cfg.PostgresPassword, cfg.PostgresDBName, cfg.PostgresSSLMode)
+
+	db, err := sqlx.Open(driverName, dsn)
 	if err != nil {
-		return nil, err
+		return nil, custom_errors.WrapWithoutCode(err, "Failed to open database connection")
 	}
 
 	err = db.Ping()
 	if err != nil {
-		return nil, err
+		return nil, custom_errors.WrapWithoutCode(err, "Failed to ping database")
 	}
 
 	dbExecutor := NewDB(db)

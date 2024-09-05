@@ -11,7 +11,7 @@ import (
 	domain_vocabulary_entity "github.com/L1z1ng3r-sswe/vocabulary_trainer/app/internal/domain/vocabulary/entity"
 )
 
-func (c *converter) ConvertTXTToPostgres(ctx context.Context) error {
+func (c *converter) ConvertTXTtoDB(ctx context.Context) error {
 	err := c.txManager.ReadCommitted(ctx, func(txCtx context.Context) error {
 		lines, err := c.readFileLines(c.txtFilePath)
 		if err != nil {

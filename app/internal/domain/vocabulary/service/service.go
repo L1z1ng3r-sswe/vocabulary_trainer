@@ -22,4 +22,10 @@ type Service interface {
 
 	// WordsWithSentences retrieves words with their associated sentences.
 	WordsWithSentences(ctx context.Context) ([]domain_vocabulary_entity.WordSentences, error)
+
+	// CreateBackup creates a backup of the entire database and returns the path to the created ZIP file.
+	CreateBackup(ctx context.Context) (string, error)
+
+	// ConvertTXTtoDB inserts text-structured data into the database.
+	ConvertTXTtoDB(ctx context.Context) error
 }

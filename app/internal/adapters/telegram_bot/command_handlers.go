@@ -2,6 +2,8 @@ package telegram_bot
 
 import (
 	"context"
+	"os"
+	"path/filepath"
 
 	"github.com/cyberyal/custom_errors"
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
@@ -42,7 +44,7 @@ func (t *telegramBot) quiz(chatID int64) {
 }
 
 func (t *telegramBot) txtConvert(chatID int64) {
-	err := t.converter.ConvertTXTToPostgres(context.Background())
+	err := t.service.ConvertTXTtoDB(context.Background())
 	if err != nil {
 		t.handleGeneralError("TXT converted into postgresql Failed: "+err.Error(), chatID)
 		return
@@ -50,10 +52,35 @@ func (t *telegramBot) txtConvert(chatID int64) {
 
 	msgCfg := tgbotapi.NewMessage(chatID, "TXT converted into postgresql successfully")
 	t.sendMsg(msgCfg)
-
 }
 
 func (t *telegramBot) createBackupDB(chatID int64) {
+	zipFilePath, err := t.service.CreateBackup(context.Background())
+	if err != nil {
+		t.handleGeneralError("Failed to create backup: "+err.Error(), chatID)
+		return
+	}
+
+	t.sendBackupFile(chatID, zipFilePath)
 	msgCfg := tgbotapi.NewMessage(chatID, "Create backup of the db successfully")
 	t.sendMsg(msgCfg)
+}
+
+func (t *telegramBot) sendBackupFile(chatID int64, zipFilePath string) {
+	zipFile, err := os.Open(zipFilePath)
+	if err != nil {
+		t.handleGeneralError("Failed to open the backup file: "+err.Error(), chatID)
+		return
+	}
+	defer zipFile.Close()
+
+	document := tgbotapi.NewDocument(chatID, tgbotapi.FileReader{
+		Name:   filepath.Base(zipFilePath),
+		Reader: zipFile,
+	})
+	document.Caption = "Here is your database backup"
+
+	if _, err := t.bot.Send(document); err != nil {
+		t.handleGeneralError("Failed to send the backup file: "+err.Error(), chatID)
+	}
 }

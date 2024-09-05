@@ -6,8 +6,11 @@ run: docker_start
 docker_start:
 	docker start vocabulary-trainer
 
+restore:
+	PGPASSWORD=asyl12345. psql -U postgres -d postgres -h localhost -p 5431 -f ./storage/sql/.sql
+
 cli_db: docker_start
-	pgcli -h localhost -U postgres -d postgres -p 5431
+	PGPASSWORD=asyl12345. pgcli -h localhost -U postgres -d postgres -p 5431
 	# \dt - for looking existing tables
 	# \q - to close connection
 	# \d table_name - to see the table
@@ -21,6 +24,4 @@ migrate_up:
 migrate_down:
 	goose -dir ./schema/migrations postgres ${DSN} down
 
-git_cache:
-	git rm -r --cached .
 
